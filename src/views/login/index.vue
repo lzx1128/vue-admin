@@ -44,7 +44,7 @@ let loginForms = ref()
 
 const loginForm = reactive({
   username: 'admin',
-  password: '123456',
+  password: '12345678',
   verifyCode: '1234',
 })
 
